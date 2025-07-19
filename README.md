@@ -58,28 +58,3 @@ To run this project locally, follow these steps:
 5.  **Access the app:** Open your web browser and go to `http://127.0.0.1:5000` (for Flask) or the address provided by Streamlit.
 
 ---
-
-## 💡 Usage
-
-* Navigate to the app in your browser.
-* (Add specific instructions on how a user would interact with your app, e.g., "Enter a city name," "Select a date range," etc.)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
-
-## 📧 Contact
-
-Your Name - [Your Email/LinkedIn/GitHub Profile Link]
-
-Project Link: [https://github.com/YourUsername/your-repo-name](https://github.com/YourUsername/your-repo-name)
